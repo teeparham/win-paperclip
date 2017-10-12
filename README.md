@@ -32,7 +32,7 @@ var bMakePaperclip = '#btnMakePaperclip',
     bProcessors = '#btnAddProc',
     bMemory = '#btnAddMem',
     bRaise = '#btnRaisePrice',
-    bCompute = '#'btnQcompute';
+    bCompute = '#btnQcompute';
   
 // examples:
 multiClick(bMakePaperClip, 100)
