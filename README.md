@@ -31,9 +31,10 @@ var bMakePaperclip = '#btnMakePaperclip',
     bMarketing = '#btnExpandMarketing',
     bProcessors = '#btnAddProc',
     bMemory = '#btnAddMem',
-    bRaise = '#btnRaisePrice';
+    bRaise = '#btnRaisePrice',
+    bCompute = '#'btnQcompute';
   
-// example usage:
+// examples:
 multiClick(bMakePaperClip, 100)
 timeClick(bAutoClipper, 15000, 25)
 timeClick(bProcessors, 120000, 20)
@@ -42,5 +43,6 @@ timeClick(bMarketing, 500000, 20)
     
 // cheats
 wire = 9999999
+investUpgrade()
 
 ```
